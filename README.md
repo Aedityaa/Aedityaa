@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Hi, I'm # ADITYA!
+# 👋 Hi, I'm ADITYA!
 
 Welcome to my GitHub! I'm a student at IIT Guwahati, working at the intersection of technology, social impact, and finance. I build things that matter—from drones that map buildings to systems that bring financial access to rural communities.
 
